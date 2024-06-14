@@ -111,6 +111,7 @@ To send Slack notifications from Jenkins, you can use the "Slack Notification" p
 10. Click Allow
 
 11. On slack workspace add a public channel as "Notification"
+12,
 
 OR
 
