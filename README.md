@@ -120,6 +120,7 @@ We can add a existing Jenkins CI app.
 2. Search "Jenkins CI" in the search App Directory box on top of the page
 3. Click on Add to Slack button
 4. Choose channel from the dropdown box --> Click on Add Jenkins Ci Integration
+5.
 
 ```
 ## Jenkins Configuration
